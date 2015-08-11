@@ -1,0 +1,23 @@
+{
+  "name": "node-docker-compose-sample",
+  "version": "1.0.0",
+  "description": "Samples for creating web-project environment with Node.js, docker, docker-compose",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meredian/node-docker-compose-sample.git"
+  },
+  "author": "Anton Sidelnikov <ndmeredian@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/meredian/node-docker-compose-sample/issues"
+  },
+  "homepage": "https://github.com/meredian/node-docker-compose-sample#readme",
+  "dependencies": {
+    "express": "^4.13.3",
+    "redis": "^0.12.1"
+  }
+}
