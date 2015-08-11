@@ -1,0 +1,2 @@
+# Ignore any files, which are not necessary in resulting image
+node_modules/
